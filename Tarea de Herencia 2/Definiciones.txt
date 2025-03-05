@@ -1,0 +1,42 @@
+Robert Abreu 23-0121
+
+Herencia en C#
+
+
+
+La herencia es un principio de la programación orientada a objetos que permite que una clase derive características y comportamientos de otra. Facilita la reutilización del código y la organización jerárquica de clases.
+
+Tipos de Herencia y Uso
+
+1. Herencia Simple
+
+Una clase hereda atributos y métodos de una única clase base.
+
+Uso: Se emplea cuando se desea especializar una clase sin duplicar código.
+
+2. Herencia Multinivel
+
+Una clase hereda de otra que, a su vez, ya es una subclase de otra clase base.
+
+Uso: Se aplica cuando se requiere extender funcionalidades de manera progresiva en una jerarquía.
+
+3. Herencia Jerárquica
+
+Varias clases heredan de una misma clase base.
+
+Uso: Se usa cuando diferentes clases comparten características comunes pero tienen comportamientos específicos.
+
+4. Herencia Múltiple (mediante interfaces)
+
+C# no permite herencia múltiple con clases, pero sí mediante la implementación de múltiples interfaces.
+
+Uso: Se utiliza para que una clase adopte múltiples comportamientos sin heredar de múltiples clases.
+
+5. Herencia Híbrida
+
+Combinación de herencia simple, multinivel y herencia con interfaces.
+
+Uso: Se emplea en sistemas complejos donde se requiere flexibilidad y modularidad en la estructura de clases.
+
+
+
