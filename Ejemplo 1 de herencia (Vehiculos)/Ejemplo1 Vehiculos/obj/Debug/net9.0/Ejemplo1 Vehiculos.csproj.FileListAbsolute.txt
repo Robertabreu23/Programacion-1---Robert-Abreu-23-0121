@@ -1,0 +1,14 @@
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\bin\Debug\net9.0\Ejemplo1 Vehiculos.exe
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\bin\Debug\net9.0\Ejemplo1 Vehiculos.deps.json
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\bin\Debug\net9.0\Ejemplo1 Vehiculos.runtimeconfig.json
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\bin\Debug\net9.0\Ejemplo1 Vehiculos.dll
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\bin\Debug\net9.0\Ejemplo1 Vehiculos.pdb
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\Ejemplo1 Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\Ejemplo1 Vehiculos.AssemblyInfoInputs.cache
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\Ejemplo1 Vehiculos.AssemblyInfo.cs
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\Ejemplo1 Vehiculos.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\Ejemplo1 Vehiculos.dll
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\refint\Ejemplo1 Vehiculos.dll
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\Ejemplo1 Vehiculos.pdb
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\Ejemplo1 Vehiculos.genruntimeconfig.cache
+c:\Users\ASUS\Desktop\Ejemplo 1 de herencia (Vehiculos)\Ejemplo1 Vehiculos\obj\Debug\net9.0\ref\Ejemplo1 Vehiculos.dll
